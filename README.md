@@ -4,3 +4,9 @@ Can be used on Debian/Ubuntu vps/vds with public ip (without NAT). Connections t
 
 Simply run the script with root privileges:
 sudo ./install.sh
+
+## todo
+
+- [ ] добавить несколько IP адресов  
+- [ ] добавить настройки авторизации по IP  
+- [ ] добавить настройки для Proxy
